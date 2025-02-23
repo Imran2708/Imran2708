@@ -67,9 +67,7 @@
 ## 🏆 Certifications  
 
 - 📜 **Microsoft Certified: Azure AI Fundamentals**  
-- 📜 **Google Data Analytics Professional Certificate**  
-- 📜 **TensorFlow Developer Certificate**  
-
+- 📜 **Microsoft Power BI Data Analyst Associate Certificate**  
 ---
 
 ## 🌍 Connect with Me  
