@@ -9,9 +9,9 @@
 
 ## 🚀 About Me  
 
-- 🔭 **Currently working on:** AI & Data Science Projects  
-- 🌱 **Exploring:** Generative AI, Large Language Models, NLP, Deep Learning  
-- 💡 **Interests:** Machine Learning, Cloud Computing, Open-Source, Data Analytics  
+- 🔭 **Currently working on:** Data Analysis Project  
+- 🌱 **Exploring:** Data Quality, Data cleaning, Data Transformation, EDA, Statistical Analysis, Data Visualization, Reporting & Documentation 
+- 💡 **Interests:** Turn raw data into meaningful insights  
 - 📫 **Contact:** bijinemullaimran@gmail.com  
 - 🌎 **Portfolio:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)  
 
@@ -28,11 +28,6 @@
 📊 Data analytics project analyzing customer transactions to extract insights.  
 🔹 **Tech Stack:** Python, Pandas, Power BI, SQL  
 🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
-
-### 🔹 **Cloud-Based Sentiment Analysis**  
-☁️ Real-time sentiment analysis using NLP & Cloud Services.  
-🔹 **Tech Stack:** Python, Azure ML, NLTK, Flask  
-🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 🎯 **Try It Out:** [Live Link](https://your-demo-link.com)  
 
 ---
 
