@@ -12,22 +12,17 @@
 - 🔭 **Currently working on:** AI & Data Science Projects  
 - 🌱 **Exploring:** Generative AI, Large Language Models, NLP, Deep Learning  
 - 💡 **Interests:** Machine Learning, Cloud Computing, Open-Source, Data Analytics  
-- 📫 **Reach me at:** bijinemullaimran@gmail.com  
-- 🌎 **Portfolio Website:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)
+- 📫 **Contact:** bijinemullaimran@gmail.com  
+- 🌎 **Portfolio:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)  
 
 ---
 
 ## 🏆 Projects  
 
-### 🔹 **Rideit Driver Engagement Analysis**  
-🚀 Analysis of driver engagement metrics for RideIT, a multi-service mobility company. This project demonstrates advanced SQL analysis, data cleaning, and business metric development. 
-🔹 **Tech Stack:** SQL
-🔗 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)
-
-### 🔹 **Rideit Driver Engagement Analysis**  
-📊 This project demonstrates advanced SQL analysis, data cleaning, and business metric development. 
-🔹 **Tech Stack:**  SQL  
-🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
+### 🔹 **RideIT Driver Engagement Analysis**  
+🚀 Analyzing driver engagement metrics for RideIT, a mobility services company. This project showcases advanced SQL analysis, data cleaning, and business metric development.  
+🔹 **Tech Stack:** SQL  
+🔗 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)  
 
 ### 🔹 **Customer 360 Analytics**  
 📊 Data analytics project analyzing customer transactions to extract insights.  
@@ -73,6 +68,7 @@
 
 - 📜 **Microsoft Certified: Azure AI Fundamentals**  
 - 📜 **Microsoft Power BI Data Analyst Associate Certificate**  
+
 ---
 
 ## 🌍 Connect with Me  
@@ -94,11 +90,4 @@
 
 ---
 
-### ✅ Next Steps  
-🚀 **Enhance with more projects**  
-💡 **Showcase live demos for projects**  
-🔗 **Keep certifications & achievements updated**  
-
----
-
-⭐ **If you like my portfolio, give it a star!** ⭐  
+⭐ **If you like my portfolio, give it a star!** ⭐
