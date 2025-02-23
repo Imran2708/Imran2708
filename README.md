@@ -22,7 +22,7 @@
 ### 🔹 **Rideit Driver Engagement Analysis**  
 🚀 Analysis of driver engagement metrics for RideIT, a multi-service mobility company. This project demonstrates advanced SQL analysis, data cleaning, and business metric development. 
 🔹 **Tech Stack:** SQL
-🔗 **Repo:** [GitHub Link]([https://github.com/your-username/project-name](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit))
+🔗 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)
 
 ### 🔹 **Customer 360 Analytics**  
 📊 Data analytics project analyzing customer transactions to extract insights.  
