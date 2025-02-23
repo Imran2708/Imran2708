@@ -9,10 +9,10 @@
 
 ## 🚀 About Me  
 
-- 🔭 **Currently working on:** Data Analysis Project  
-- 🌱 **Exploring:** Data Quality, Data cleaning, Data Transformation, EDA, Statistical Analysis, Data Visualization, Reporting & Documentation 
-- 💡 **Interests:** Turn raw data into meaningful insights  
-- 📫 **Contact:** bijinemullaimran@gmail.com  
+- 🔯 **Currently working on:** Data Analysis Project  
+- 🌱 **Exploring:** Data Quality, Data Cleaning, Data Transformation, EDA, Statistical Analysis, Data Visualization, Reporting & Documentation  
+- 💡 **Interests:** Turning raw data into meaningful insights  
+- 💌 **Contact:** bijinemullaimran@gmail.com  
 - 🌎 **Portfolio:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)  
 
 ---
@@ -22,26 +22,28 @@
 ### 🔹 **RideIT Driver Engagement Analysis**  
 🚀 Analyzing driver engagement metrics for RideIT, a mobility services company. This project showcases advanced SQL analysis, data cleaning, and business metric development.  
 🔹 **Tech Stack:** SQL  
-🔗 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)  
+👉 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)  
 
 ### 🔹 **Customer 360 Analytics**  
 📊 Data analytics project analyzing customer transactions to extract insights.  
 🔹 **Tech Stack:** Python, Pandas, Power BI, SQL  
-🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
+👉 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/SQL-%230075C8.svg?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-%2300A651.svg?&style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-%23FF6F00.svg?&style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-%234285F4.svg?&style=for-the-badge&logo=statistics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
@@ -61,8 +63,8 @@
 
 ## 🏆 Certifications  
 
-- 📜 **Microsoft Certified: Azure AI Fundamentals**  
-- 📜 **Microsoft Power BI Data Analyst Associate Certificate**  
+- 📝 **Microsoft Certified: Azure AI Fundamentals**  
+- 📝 **Microsoft Power BI Data Analyst Associate Certificate**  
 
 ---
 
@@ -85,4 +87,4 @@
 
 ---
 
-⭐ **If you like my portfolio, give it a star!** ⭐
+🌟 **If you like my portfolio, give it a star!** 🌟
