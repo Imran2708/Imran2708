@@ -29,6 +29,11 @@
 🔹 **Tech Stack:** Python, Pandas, Power BI, SQL  
 🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
 
+### 🔹 **Customer 360 Analytics**  
+📊 Data analytics project analyzing customer transactions to extract insights.  
+🔹 **Tech Stack:** Python, Pandas, Power BI, SQL  
+🔗 **Repo:** [GitHub Link](https://github.com/your-username/project-name) | 📊 **Dashboard:** [View Here](https://your-demo-link.com)  
+
 ### 🔹 **Cloud-Based Sentiment Analysis**  
 ☁️ Real-time sentiment analysis using NLP & Cloud Services.  
 🔹 **Tech Stack:** Python, Azure ML, NLTK, Flask  
