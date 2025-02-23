@@ -13,7 +13,7 @@
 - 🌱 **Exploring:** Generative AI, Large Language Models, NLP, Deep Learning  
 - 💡 **Interests:** Machine Learning, Cloud Computing, Open-Source, Data Analytics  
 - 📫 **Reach me at:** bijinemullaimran@gmail.com  
-- 🌎 **Portfolio Website:** [Visit Here](https://your-portfolio-link.com)  
+- 🌎 **Portfolio Website:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)
 
 ---
 
