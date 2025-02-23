@@ -74,7 +74,7 @@
 ## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/imranb" target="blank">
+  <a href="https://www.linkedin.com/in/imran-b-18601717b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>  
   <a href="https://github.com/imran2708" target="blank">
