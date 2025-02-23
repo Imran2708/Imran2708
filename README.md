@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imran B</h1>
-<h3 align="center">Software Engineer | Generative AI & Data Enthusiast</h3>
+<h3 align="center">Data Analyst | Generative AI & Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Software+Engineer;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Data+Analyst;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner" />
 </p>
 
 ---
