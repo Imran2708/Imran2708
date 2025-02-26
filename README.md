@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Generative AI & Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Data+Analyst;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner;Turn+raw+data+into+meaningful+insights+📈" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Data+Analyst;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner" />
 </p>
 
 ---
