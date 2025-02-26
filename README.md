@@ -2,18 +2,18 @@
 <h3 align="center">Data Analyst | Generative AI & Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Data+Analyst;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Data+Analyst;AI+%7C+ML+%7C+Cloud+Computing;Generative+AI+Explorer;Lifelong+Learner;Turn+raw+data+into+meaningful+insights+📈" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔯 **Currently working on:** Data Analysis Project  
+- 🔯 **Currently working on:** Data Analysis Portfolio Project  
 - 🌱 **Exploring:** Data Quality, Data Cleaning, Data Transformation, EDA, Statistical Analysis, Data Visualization, Reporting & Documentation  
 - 💡 **Interests:** Turning raw data into meaningful insights
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/140KZu12tUnJMF1v14fbv631KY_EHm1yE/view?usp=sharing) 
-- 💌 **Contact:** bijinemullaimran@gmail.com  
+- 💌 **Contact:** b.imran2706@gmail.com  
 - 🌎 **Portfolio:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)  
 
 ---
@@ -76,7 +76,7 @@
   <a href="https://instagram.com/simply.immu" target="blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>  
-  <a href="mailto:bijinemullaimran@gmail.com">
+  <a href="mailto:b.imran2706@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>  
 </p>
