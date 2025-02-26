@@ -12,7 +12,7 @@
 - 🔯 **Currently working on:** Data Analysis Portfolio Project  
 - 🌱 **Exploring:** Data Quality, Data Cleaning, Data Transformation, EDA, Statistical Analysis, Data Visualization, Reporting & Documentation  
 - 💡 **Interests:** Turning raw data into meaningful insights
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/140KZu12tUnJMF1v14fbv631KY_EHm1yE/view?usp=sharing) 
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1JukN57pUgxFKpDxRh1sNC3bwoFPZkzCf/view?usp=sharing) 
 - 💌 **Contact:** b.imran2706@gmail.com  
 - 🌎 **Portfolio:** [Visit Here](https://github.com/Imran2708/PortfolioProjects/tree/main)  
 
