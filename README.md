@@ -25,6 +25,13 @@
 🔹 **Tech Stack:** SQL  
 👉 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/rideit)  
 
+### 🔹 **Credit Card Customer Churn Analysis**  
+🚀 Analyzing customer churn patterns for **Harbor Trust Bank** to identify key risk factors and improve retention strategies. This project demonstrates **data cleaning, exploratory data analysis (EDA), and business-driven insights** using Python.  
+🔹 **Tech Stack:** Python (pandas, numpy, matplotlib, seaborn)  
+👉 **Repo:** [GitHub Link](https://github.com/Imran2708/PortfolioProjects/tree/main/credit%20card%20customer%20churn)  
+
+Let me know if you'd like further refinements! 🚀
+
 ---
 
 ## 🛠 Tech Stack  
